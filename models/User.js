@@ -1,5 +1,4 @@
 const { Schema, model}= require('mongoose');
-const { Thought } = require('.');
 
 const UserSchema= new Schema({
     username: {type: String, required: true, unique: true, trim: true,},
