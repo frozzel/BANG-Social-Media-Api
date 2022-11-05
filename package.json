@@ -1,0 +1,30 @@
+{
+  "name": "bangthought-",
+  "version": "1.0.0",
+  "description": "Social Media Api using MongoDB, Mongoose and Express, to build out Backend of Social Media Application",
+  "main": "server.js",
+  "scripts": {
+    "test": "test",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/frozzel/BANGThought-.git"
+  },
+  "keywords": [
+    "Social",
+    "Media",
+    "Backend",
+    "Api"
+  ],
+  "author": "Dennis Hickox",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/frozzel/BANGThought-/issues"
+  },
+  "homepage": "https://github.com/frozzel/BANGThought-#readme",
+  "dependencies": {
+    "express": "^4.18.2",
+    "mongoose": "^6.7.1"
+  }
+}
