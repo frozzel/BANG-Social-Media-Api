@@ -30,7 +30,7 @@
   ## Usage
   [Vist Our Site](https://github.com/frozzel/BANG-Social-Media-Api)
 
-   [Video Tutorial](https://github.com/frozzel/BANG-Social-Media-Api)
+   [Video Tutorial](https://youtu.be/j9Ls8n9aeH4)
   
   
 ![Screen Shots](./img/Screen%20Shot%202022-11-07%20at%207.57.57%20PM.png)
